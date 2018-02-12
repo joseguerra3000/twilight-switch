@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = mar 16 ene 2018 01:08:59 CST
+
+BeginCmp
+TimeStamp = 5A5C7CBC
+Path = /5A5BAB60
+Reference = C1;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CC8
+Path = /5A5B90FC
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CD4
+Path = /5A5B94BA
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CDC
+Path = /5A5BB6BC
+Reference = D1;
+ValeurCmp = Diode_Bridge;
+IdModule  = w_pth_diodes:bridge_DFM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CE2
+Path = /5A5BBB52
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = w_indicators:led_5mm_green;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CE9
+Path = /5A5BB5E6
+Reference = Q1;
+ValeurCmp = BD139;
+IdModule  = TO_SOT_Packages_THT:SOT126_SOT32_Housing_Vertical_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CEF
+Path = /5A5BAEA4
+Reference = R1;
+ValeurCmp = Photores;
+IdModule  = w_pin_strip:pin_socket_2mm_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CF5
+Path = /5A5BAF3B
+Reference = R2;
+ValeurCmp = 400k;
+IdModule  = w_pth_resistors:RC05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CFB
+Path = /5A5BBA90
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = w_pth_resistors:RC07;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7D01
+Path = /5A5BBF39
+Reference = R4;
+ValeurCmp = 2.2k;
+IdModule  = w_pth_resistors:RC07;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7D0A
+Path = /5A5BF7CC
+Reference = RLY1;
+ValeurCmp = RELAY_HJR-3FF_Z;
+IdModule  = w_relay:relay_hjr-3ff_z;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7D1D
+Path = /5A5BA1AD
+Reference = U2;
+ValeurCmp = LM555N;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5CD96A
+Path = /5A5CD7DB
+Reference = D3;
+ValeurCmp = 1N4007;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5E3B74
+Path = /5A5BE67D
+Reference = U1;
+ValeurCmp = LM7805CT;
+IdModule  = w_to:to220_std;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5E84BA
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_2-5mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_2-5mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5E84C8
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_2-5mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_2-5mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CC2
+Path = /5A5B8E1C
+Reference = C2;
+ValeurCmp = 470uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D8_L21_P3.8;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5C7CCE
+Path = /5A5B93B6
+Reference = C4;
+ValeurCmp = 470uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D8_L21_P3.8;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5EBC58
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_1-5mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_1-5mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A5EBC61
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_1-5mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_1-5mmDrill;
+EndCmp
+
+EndListe
